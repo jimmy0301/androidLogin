@@ -1,0 +1,14 @@
+<resources>
+
+   <!-- Strings related to login -->
+   <string name="prompt_email">example@email.com</string>
+   <string name="prompt_password">Password</string>
+   <string name="action_sign_in">登入</string>
+   <string name="action_register">還不是會員? 請先註冊</string>
+   <string name="action_sign_in_short">登入</string>
+
+   <string name="error_invalid_email">不合法的電子郵件</string>
+   <string name="error_invalid_password">密碼長度太短</string>
+   <string name="error_incorrect_password">密碼錯誤</string>
+   <string name="error_field_required">這些欄位必填</string>
+</resources>

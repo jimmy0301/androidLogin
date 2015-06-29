@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name="hint_email">example@email.com</string>
+   <string name="hint_password">Password</string>
+   <string name="btn_register">註冊</string>
+   <string name="btn_link_to_login">已經註冊，請按此連結到登入頁面登入</string>
+</resources>
